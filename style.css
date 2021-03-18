@@ -1,0 +1,33 @@
+body {
+  background-color: #007bff;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.box {
+  background-color: #fff;
+  position: relative;
+}
+
+.fa-quote-left {
+  position: absolute;
+  opacity: 0.1;
+  top: 10px;
+  left: 10px;
+}
+
+.footer {
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 15px auto 30px auto;
+  font-size: 0.8em;
+  color: #fff;
+}
+.footer a {
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+}
