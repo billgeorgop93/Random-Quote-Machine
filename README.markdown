@@ -6,4 +6,4 @@ Random Quote Machine created on CodePen.io by me for Front End Development Libra
 
 Codepen URL: [https://codepen.io/zer0fr0st93/full/VwLgQmq](https://codepen.io/zer0fr0st93/full/VwLgQmq)
 
-Live URL: https://zer0fr0st93.github.io/Random-Quote-Machine/
+Live URL: https://billgeorgop93.github.io/Random-Quote-Machine/
